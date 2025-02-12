@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Java Script**
 
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University**
 
