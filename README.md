@@ -1,8 +1,13 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Charitha Bimsara</h1>
-<h2 align="center">portfolio : **https://charithaadikari.wuaze.com** </h2>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology | Official Account</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CharithaAdikari&label=Profile%20views&color=0e75b6&style=flat" alt="CharithaBimsara" /> </p>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px" alt="Profile Image">
+</p>
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #4CAF50;">Hi there 👋, I'm Charitha Bimsara!</h1>
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #FF5722;">Check out my portfolio: <a href="https://charithaadikari.wuaze.com" target="_blank" style="text-decoration: none; color: #FF5722;">charithaadikari.wuaze.com</a></h2>
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #009688;">🌟 Passionate IT Student | Exploring the Exciting World of Technology | Official Account 🌟</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CharithaAdikari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
 
 <table align="center">
 <tr border="none">
