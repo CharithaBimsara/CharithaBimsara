@@ -17,7 +17,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **charithabimsara@gmail.com**
   
