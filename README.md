@@ -79,8 +79,8 @@
       </a>
     </td>
     <td width="33%">
-     <a href="https://github.com/CharithaBimsara/Website-Boilerplate">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=Website-Boilerplate&theme=dark&show_icons=true" />
+     <a href="https://github.com/CharithaBimsara/Tour-Travel-App-Android">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=Tour-Travel-App-Android&theme=dark&show_icons=true" />
       </a>
     </td>
     <td width="33%">
