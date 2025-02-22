@@ -84,8 +84,8 @@
       </a>
     </td>
     <td width="33%">
-      <a href="https://github.com/CharithaBimsara/POS-System-for-Sales-and-Inventory-Management">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=POS-System-for-Sales-and-Inventory-Management&theme=dark&show_icons=true" />
+      <a href="https://github.com/CharithaBimsara/ReactJS-POS-System">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=ReactJS-POS-System&theme=dark&show_icons=true" />
       </a>
     </td>
   </tr>
