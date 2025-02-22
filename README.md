@@ -42,6 +42,7 @@
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=CharithaBimsara&theme=dark&show_icons=true&count_private=true&cache_seconds=0" />
         <br><br>
         <img alt="Mark streak" src="https://github-readme-streak-stats-smoky-chi.vercel.app?user=charithabimsara&theme=dark" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=WallColorGenAI" />
       </td>
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CharithaBimsara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
