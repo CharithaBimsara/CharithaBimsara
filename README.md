@@ -83,11 +83,11 @@
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=Website-Boilerplate&theme=dark&show_icons=true" />
       </a>
     </td>
-<!--     <td width="33%">
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark&show_icons=true" />
+    <td width="33%">
+      <a href="https://github.com/CharithaBimsara/POS-System-for-Sales-and-Inventory-Management">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=POS-System-for-Sales-and-Inventory-Management&theme=dark&show_icons=true" />
       </a>
-    </td> -->
+    </td>
   </tr>
 </table>
 
