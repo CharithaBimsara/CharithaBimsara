@@ -44,7 +44,7 @@
         <img alt="Mark streak" src="https://github-readme-streak-stats-smoky-chi.vercel.app?user=charithabimsara&theme=dark" alt="GitHub Streak" />
       </td>
       <td width="50%" align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charithabimsara&layout=compact&langs_count=8&card_width=320&theme=dark&hide_progress=true"" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charithabimsara&layout=compact&langs_count=8&card_width=320&theme=dark&hide_progress=false"" />
       </td>
     </tr>
   </table>
