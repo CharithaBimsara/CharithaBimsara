@@ -50,6 +50,48 @@
   </table>
 </p>
 
+---
+
+<h3 align="left">📌 My Top Open Source Projects</h3>
+
+<table width="100%" border="0">
+  <tr>
+    <td width="33%">
+      <a href="https://github.com/CharithaBimsara/WallColorGenAI">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=WallColorGenAI&theme=dark&show_icons=true" />
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/CharithaBimsara/Weather-App">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=Weather-App&theme=dark&show_icons=true" />
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/CharithaBimsara/Random-Background-Color-Changer">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=Random-Background-Color-Changer&theme=dark&show_icons=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <a href="https://github.com/CharithaBimsara/Javascript-Counter">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=Javascript-Counter&theme=dark&show_icons=true" />
+      </a>
+    </td>
+    <td width="33%">
+     <a href="https://github.com/CharithaBimsara/Website-Boilerplate">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=Website-Boilerplate&theme=dark&show_icons=true" />
+      </a>
+    </td>
+<!--     <td width="33%">
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark&show_icons=true" />
+      </a>
+    </td> -->
+  </tr>
+</table>
+
+<br>
 
 ---
 
