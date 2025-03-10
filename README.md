@@ -24,11 +24,8 @@
 
 </td>
 <td width="50%" align="center">
-
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
+ </td>
 </tr>
 </table>
 
@@ -40,7 +37,7 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CharithaBimsara&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CharithaBimsara&theme=dark&hide_border=false&card_width=320" /> 
 </td>
 <td width="50%" align="center">
 
