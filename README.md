@@ -36,62 +36,19 @@
 
 <h3 align="center">My Statistics</h3><br>
 <p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=CharithaBimsara&theme=dark&show_icons=true&count_private=true&cache_seconds=0" />
-        <br><br>
-        <img alt="Mark streak" src="https://github-readme-streak-stats-smoky-chi.vercel.app?user=charithabimsara&theme=dark" alt="GitHub Streak" />
-      </td>
-      <td width="50%" align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charithabimsara&layout=compact&langs_count=8&card_width=320&theme=dark&hide_progress=false"" />
-      </td>
-    </tr>
-  </table>
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 
----
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CharithaBimsara&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-<h3 align="left">📌 My Top Open Source Projects</h3>
-
-<table width="100%" border="0">
-  <tr>
-    <td width="33%">
-      <a href="https://github.com/CharithaBimsara/WallColorGenAI">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=WallColorGenAI&theme=dark&show_icons=true" />
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/CharithaBimsara/Bookstore-MERN">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=Bookstore-MERN&theme=dark&show_icons=true" />
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/CharithaBimsara/Library-Management-App-Android">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=Library-Management-App-Android&theme=dark&show_icons=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <a href="https://github.com/CharithaBimsara/Cybersecurity-Portfolio">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=Cybersecurity-Portfolio&theme=dark&show_icons=true" />
-      </a>
-    </td>
-    <td width="33%">
-     <a href="https://github.com/CharithaBimsara/Tour-Travel-App-Android">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=Tour-Travel-App-Android&theme=dark&show_icons=true" />
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/CharithaBimsara/ReactJS-POS-System">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=charithabimsara&repo=ReactJS-POS-System&theme=dark&show_icons=true" />
-      </a>
-    </td>
-  </tr>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CharithaBimsara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact&langs_count=8&card_width=320"/>
+  
+  </td>
+</tr>
 </table>
-
-<br>
 
 ---
 
