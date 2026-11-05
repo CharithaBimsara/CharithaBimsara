@@ -70,7 +70,7 @@ Nexa Color Match is collaborative academic research. Team credits and publicatio
 
 ## Technical Writing
 
-[How We Built Nexa Color Match: Flutter, Spring Boot, and Python](https://medium.com/@charithabimsara/how-we-built-nexa-color-match-with-flutter-spring-boot-and-python-f1f95de7c8ff) ? An engineering walkthrough of our collaborative university research, covering image analysis, fuzzy room complexity and application integration.
+[How We Built Nexa Color Match: Flutter, Spring Boot, and Python](https://medium.com/@charithabimsara/how-we-built-nexa-color-match-with-flutter-spring-boot-and-python-f1f95de7c8ff) - An engineering walkthrough of our collaborative university research, covering image analysis, fuzzy room complexity and application integration.
 
 ## Connect
 
