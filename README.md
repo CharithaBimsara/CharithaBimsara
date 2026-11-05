@@ -68,6 +68,10 @@ Mobile billing and sales workflows backed by ASP.NET Core, with local persistenc
 
 Nexa Color Match is collaborative academic research. Team credits and publication details are retained in its case study. Business case studies share permitted implementation concepts and sanitized visuals; protected client source is excluded.
 
+## Technical Writing
+
+[How We Built Nexa Color Match: Flutter, Spring Boot, and Python](https://medium.com/@charithabimsara/how-we-built-nexa-color-match-with-flutter-spring-boot-and-python-f1f95de7c8ff) ? An engineering walkthrough of our collaborative university research, covering image analysis, fuzzy room complexity and application integration.
+
 ## Connect
 
 [Portfolio](https://charithaadikari.vercel.app) · [LinkedIn](https://www.linkedin.com/in/charithaadikari/) · [Technical writing](https://medium.com/@charithabimsara)
